@@ -1,6 +1,7 @@
 import React from 'react';
 import { Coins } from 'lucide-react';
-import whitePaper from '/home/lalo/_BoltAI/Hoodcoin-WEB3-Brown-Heading/public/resources/hoodc white paper.pdf';
+import whitePaper from '/public/resources/hoodc white paper.pdf';
+
 
 export default function Footer() {
   return (
@@ -23,7 +24,6 @@ export default function Footer() {
 >
   White Paper
 </a>
-
 
           </div>
           <div>
