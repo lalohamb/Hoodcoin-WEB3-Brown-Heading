@@ -1,5 +1,6 @@
 import React from 'react';
 import { Coins } from 'lucide-react';
+import whitePaper from '/home/lalo/_BoltAI/Hoodcoin-WEB3-Brown-Heading/public/resources/hoodc white paper.pdf';
 
 export default function Footer() {
   return (
@@ -15,13 +16,15 @@ export default function Footer() {
               Connecting neighborhoods through blockchain technology.
             </p>
             <a 
-              href="https://cnn.com/" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="text-sm text-amber-400 hover:text-amber-300 transition"
-            >
-              White Paper
-            </a>
+  href={whitePaper} 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="text-sm text-amber-400 hover:text-amber-300 transition"
+>
+  White Paper
+</a>
+
+
           </div>
           <div>
             <h4 className="font-semibold mb-4">Community</h4>
