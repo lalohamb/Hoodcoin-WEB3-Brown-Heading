@@ -1,4 +1,5 @@
-🎉 Introducing HOODc: Empowering Black-Owned Businesses and Culture! 🎉
+🎉 Introducing HOODc: Helping Our Own Development & Culture coin.  🎉
+This acronym reflects the purpose of the token to support and promote economic development within the black community, while also preserving and celebrating black culture.
 
 Join us in revolutionizing the landscape of economic empowerment and cultural preservation with the launch of HOODc – the Helping Our Own Development & Culture coin.
 
