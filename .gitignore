@@ -1,4 +1,8 @@
+#Private
 .env
+/node_modules
+/artifacts
+
 
 # Logs
 logs
